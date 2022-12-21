@@ -1,0 +1,27 @@
+{
+  "name": "random-sentences-msg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhons14/random-sentences-msg.git"
+  },
+  "keywords": [],
+  "author": "Jhon Orjuela <tivenorjuela7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jhons14/random-sentences-msg/issues"
+  },
+  "homepage": "https://github.com/Jhons14/random-sentences-msg#readme",
+  "random-sentences-msg": {
+    "bin": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "random-sentences-msg": "./bin/global.js"
+  },
+  "description": ""
+}
